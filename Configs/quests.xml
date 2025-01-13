@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+    <quest id="PreacherArmorAndWastelandGear" tier="1">
+        <name>Preacher Armor and Wasteland Gear</name>
+        <description>Upon reaching level 2, you are blessed with Preacher's Armor and Wasteland essentials.</description>
+        <offer>Upon reaching level 2, you'll receive:</offer>
+        <completion_type>Level</completion_type>
+        <completion_level>2</completion_level>
+        <reward_items>
+            <item name="preacherHat" count="1" quality="6"/>
+            <item name="preacherOutfit" count="1" quality="6"/>
+            <item name="preacherGloves" count="1" quality="6"/>
+            <item name="preacherBoots" count="1" quality="6"/>
+            <!-- Wasteland mod items -->
+            <item name="foodScorpionOmelette" count="10"/>
+            <item name="drinkNukaCola" count="10"/>
+            <item name="ammo10mmBullet" count="300"/>
+            <item name="gunHandgunT110mmPistol" count="1" quality="2"/>
+            <item name="meleeWpnBladeT3Katana1" count="1" quality="2"/>
+        </reward_items>
+        <repeatable>false</repeatable>
+    </quest>
+</quests>
