@@ -7,10 +7,10 @@
         <completion_type>Level</completion_type>
         <completion_level>2</completion_level>
         <reward_items>
-            <item name="preacherHat" count="1" quality="6"/>
-            <item name="preacherOutfit" count="1" quality="6"/>
-            <item name="preacherGloves" count="1" quality="6"/>
-            <item name="preacherBoots" count="1" quality="6"/>
+            <item name="preacherHat" count="1" quality="1"/>
+            <item name="preacherOutfit" count="1" quality="1"/>
+            <item name="preacherGloves" count="1" quality="1"/>
+            <item name="preacherBoots" count="1" quality="1"/>
             <!-- Wasteland mod items -->
             <item name="foodScorpionOmelette" count="10"/>
             <item name="drinkNukaCola" count="10"/>
